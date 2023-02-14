@@ -53,3 +53,16 @@ form{
     border-radius: 14px;
     cursor: pointer;
 }
+
+
+.bg{
+
+    padding-top: 20px;
+    display: flex;
+    padding-left: 35vw;
+    /* width: 20vw; */
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 15px;
+}
