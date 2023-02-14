@@ -16,10 +16,13 @@
 .container h1, p{
 
     text-align: center;
+    font-family: 'Julee', cursive;
+    font-size: 40px;
 }
 
 p{
     font-size: 17px;
+    font-family: 'Julee', cursive;
 }
 
 input,textarea{
@@ -65,4 +68,11 @@ form{
     align-items: center;
     justify-content: center;
     padding-bottom: 15px;
+}
+
+.submitMsg{
+
+    padding-top: 5px;
+    color: greenyellow;
+    font-size: 25px;
 }
